@@ -26,7 +26,7 @@
 ##Webmail Access - Luxyachts##
 
 1.	Open browser
-2.	In the address bar, type https://webmail.luxyachts.com
+2.	In the address bar, type https://XXXXX.luxyachts.com
 3.	There will be a warning page that appears
 a.	Click the link Continue to this web page (not recommended)
 4.	Next page will the logon page for Luxury Yacht Group webmail
@@ -77,14 +77,14 @@ Put in your Name, Email Address, Password and account description then hit the N
 
 Choose IMAP and then scroll to Incoming Name Server
 
- * Host Name = imap.emailarray.com
+ * Host Name = imap.XXXXX.com
  * User Name = the email address you are setting up
  * Password = your email password (ask IT if you''re unsure)
  * Security Type = None…if it asks
 
 Scroll down to Outgoing Mail Server
 
- * Host Name = smtp.emailarray.com
+ * Host Name = smtp.XXXXX.com
  * User Name = the email address you are setting up
  * Password = self explanatory
 
