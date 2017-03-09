@@ -79,7 +79,7 @@ Choose IMAP and then scroll to Incoming Name Server
 
  * Host Name = imap.XXXXX.com
  * User Name = the email address you are setting up
- * Password = your email password (ask IT if you''re unsure)
+ * Password = your email password (ask IT if you're unsure)
  * Security Type = None…if it asks
 
 Scroll down to Outgoing Mail Server
