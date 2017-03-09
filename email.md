@@ -3,7 +3,7 @@
 
 ##Troubleshooting Goldmine Emails##
 
-* If you can''t get your emails off the server, you''ll need to login to [webmail](https://webmail.luxyachts.com) and find which email is causing Goldmine to hiccup. Usually it is an email with an attachment. Start to get your emails one or a couple at a time, until Goldmine says it can''t. Then you''ve found your problem email.
+* If you can''t get your emails off the server, you''ll need to login to [webmail](https://xxxx.luxyachts.com) and find which email is causing Goldmine to hiccup. Usually it is an email with an attachment. Start to get your emails one or a couple at a time, until Goldmine says it can''t. Then you''ve found your problem email.
 * Check emailarray ([their support page](https://www.polarismail.com/Support/)). Try going to [webmail](https://webmail.luxyachts.com). Email support@polarismail.com for further assistance.
 * Check [mailwallremote](http://mailwallremote.com). Their support number is +44 (0) 845 867 1256. 
 
